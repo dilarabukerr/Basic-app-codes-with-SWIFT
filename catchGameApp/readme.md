@@ -1,3 +1,3 @@
 ## Görünüm
 
-<img src="https://github.com/dilarabukerr/basic-apps-with-SWIFT/blob/main/catchGameApp/gif.gif" height="500">
+<img src="https://github.com/dilarabukerr/Basic-app-codes-with-SWIFT/blob/main/catchGameApp/gif.gif" height="500">
