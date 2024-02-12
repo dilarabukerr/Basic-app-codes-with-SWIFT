@@ -7,4 +7,4 @@
 
   ## Görünüm
   
-<img src="https://github.com/dilarabukerr/basic-apps-with-SWIFT/blob/main/landmarkBook/view.gif" height="500">
+<img src="https://github.com/dilarabukerr/Basic-app-codes-with-SWIFT/blob/main/landmarkBook/view.gif" height="500">
