@@ -1,5 +1,5 @@
 
-//  ViewController.swift  -=_
+//  ViewController.swift
 //  simpsonBook
 //
 //  Created by Dilara Büker on 17.02.2024.
